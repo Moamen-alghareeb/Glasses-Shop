@@ -1,0 +1,14 @@
+{
+  "require": {
+    "illuminate/database": "*",
+    "twbs/bootstrap": "5.3.5"
+  },
+  "autoload": {
+    "classmap": [
+      "classes"
+    ],
+    "files": [
+      "config.php"
+    ]
+  }
+}

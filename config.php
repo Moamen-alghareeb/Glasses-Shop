@@ -1,0 +1,9 @@
+<?php
+define("db","northwind");
+define("uname","root");
+define("port","3306");
+define("pass","");
+define("host","127.0.0.1");
+define("items_table","items");
+define("per_page",3);
+?>
